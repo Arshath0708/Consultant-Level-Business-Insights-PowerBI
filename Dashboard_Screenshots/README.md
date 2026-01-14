@@ -33,8 +33,8 @@ It provides executive-level and performance-level insights using the Global Supe
 - Excel / CSV
 
 ## Dashboard Preview
-![Executive Summary](Dashboard_Screenshots/Executive_Summary.png)
-![Business Performance](Dashboard_Screenshots/Business_Performance.png)
+![Executive Summary](Dashboard_Screenshots/Executive_Summary.jpeg)
+![Business Performance](Dashboard_Screenshots/Business_Performance.jpeg)
 
 ## Author
 Arshath
