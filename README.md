@@ -37,4 +37,4 @@ It provides executive-level and performance-level insights using the Global Supe
 ![Business Performance](Dashboard_Screenshots/Business_Performance.jpeg)
 
 ## Author
-Arshath
+Arshath Abdulla A
